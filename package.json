@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "description": "Parse the nagios status.dat file format",
   "main": "nagios-status-parser.js",
+  "bin": {
+    "nagios-status-parser": "./bin/nagios-status-parser.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
