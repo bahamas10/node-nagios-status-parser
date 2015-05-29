@@ -1,0 +1,27 @@
+{
+  "name": "nagios-status-parser",
+  "version": "0.0.0",
+  "description": "Parse the nagios status.dat file format",
+  "main": "nagios-status-parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bahamas10/node-nagios-status-parser.git"
+  },
+  "keywords": [
+    "nagios",
+    "parse",
+    "status"
+  ],
+  "author": "Dave Eddy <dave@daveeddy.com> (http://www.daveeddy.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bahamas10/node-nagios-status-parser/issues"
+  },
+  "homepage": "https://github.com/bahamas10/node-nagios-status-parser#readme",
+  "dependencies": {
+    "autocast": "0.0.4"
+  }
+}
