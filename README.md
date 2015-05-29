@@ -57,6 +57,7 @@ yields
       "modified_attributes": 0,
       "check_command": "check-host-alive",
       ...
+    }
   ],
   "servicestatus": [
     {
