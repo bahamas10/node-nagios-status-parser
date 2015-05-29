@@ -1,6 +1,6 @@
 {
   "name": "nagios-status-parser",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Parse the nagios status.dat file format",
   "main": "nagios-status-parser.js",
   "bin": {
